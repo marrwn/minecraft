@@ -1,0 +1,12 @@
+{
+  "name": "minecraft-chaos-bot",
+  "version": "1.0.0",
+  "description": "A completely erratic Minecraft bot designed for cracked servers.",
+  "main": "randomBot.js",
+  "scripts": {
+    "start": "node randomBot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.37.1"
+  }
+}
